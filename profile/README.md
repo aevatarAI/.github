@@ -8,3 +8,5 @@ With **AetherLink**, aelf unites blockchains, enabling AI agents to access infin
 
 ### The Ultimate Vision 
 AI agents breaking free from isolated platforms, forging a dynamic web3 landscape. This is the dawn of **aevatar intelligence**, where intelligent autonomy thrives, boundaries vanish, and the Web3 frontier is redefined. The revolution is here.
+
+<img src="https://github.com/AISmartProject/.github/blob/main/profile/aevatar.png?raw=true" width="900"/>
