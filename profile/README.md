@@ -1,4 +1,4 @@
-## aevatar intelligence
+## aevatar.ai
 Discover a revolutionary **cloud-native AI agent framework** that creates AI agents that can intelligently interact and collaborate in real-time across **different platforms and different blockchains**. Whether you're new to Web3 or an early adopter, you can effortlessly create personal AI agents with **no code required**—your intelligent delegate to navigate, interact, and engage with the **entire Web3** on your behalf. 
 
 ### Why It’s Revolutionary
