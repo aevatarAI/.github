@@ -7,7 +7,7 @@ Imagine AI agents that think, act, and operate autonomously—seamlessly connect
 With **AetherLink**, an AI Oracle built on aelf, AI agents can access infinite data streams across different platforms and blockchains, enabling them to deliver sharper, real-time insights. The future of intelligent Web3 is coming—faster, smarter, and unstoppable.
 
 ### The Ultimate Vision 
-AI agents breaking free from isolated platforms, forging a dynamic web3 landscape. This is the dawn of **aevatar intelligence**, where intelligent autonomy thrives, boundaries vanish, and the Web3 frontier is redefined. The revolution is here.
+AI agents breaking free from isolated platforms, forging a dynamic web3 landscape. This is the dawn of **aevatar.ai**, where intelligent autonomy thrives, boundaries vanish, and the Web3 frontier is redefined. The revolution is here.
 
 ### [ai-diagram]
-<img src="https://github.com/AISmartProject/.github/blob/main/profile/aevatar.jpeg?raw=true" width="900"/>
+<img src="https://github.com/aevatarAI/.github/blob/main/profile/aevatar.jpeg?raw=true" width="900"/>
